@@ -1,7 +1,10 @@
 Hello File3
+<<<<<<< HEAD
 
 Edit from GitHub
 
 Edit from Local Repo
 
 Repo Edited by asimoffice account
+=======
+>>>>>>> parent of 633fdd9 (Update File3)
